@@ -1,7 +1,12 @@
 ﻿<header class="site-header">
   <div class="wrap">
     <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <nav class="main-nav">
+
+    <!-- Mobile Menü Toggle (CSS-only) -->
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="menu-toggle" aria-label="Menü öffnen oder schließen">☰ Menü</label>
+
+    <nav class="main-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="{{ '/' | relative_url }}">Start</a>
       <a href="{{ '/angebote/' | relative_url }}">Angebote & Kurse</a>
       <a href="{{ '/termine/' | relative_url }}">Kurstermine</a>

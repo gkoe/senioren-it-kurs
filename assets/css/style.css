@@ -118,6 +118,20 @@ body {
   transform: scale(0.98);
 }
 
+/* Mobile menu base elements */
+.nav-toggle { display: none; }
+.menu-toggle {
+  display: none;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  user-select: none;
+}
+
 /* ========================================
    Hauptinhalt
    ======================================== */
@@ -506,18 +520,11 @@ section {
   .site-title {
     font-size: 1.5rem;
   }
-  
-  .main-nav {
-    flex-direction: column;
-    width: 100%;
-    gap: 0.5rem;
-  }
-  
-  .main-nav a {
-    display: block;
-    padding: 0.75rem 1rem;
-    width: 100%;
-  }
+  /* Hamburger sichtbar, Navigation initial versteckt */
+  .menu-toggle { display: inline-flex; align-items: center; gap: 0.5rem; }
+  .main-nav { display: none; flex-direction: column; width: 100%; gap: 0.25rem; }
+  .nav-toggle:checked ~ .main-nav { display: flex; }
+  .main-nav a { display: block; padding: 0.75rem 1rem; width: 100%; }
   
   /* Wrap Container */
   .wrap {
