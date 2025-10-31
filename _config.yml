@@ -1,0 +1,8 @@
+﻿# Minimal Jekyll config for GitHub Pages
+title: Senioren-IT Kurs
+description: Info-Website fÃ¼r den Senioren-IT Kurs â€” Termine, Materialien und Kontakt.
+baseurl: "" # falls die Seite in einem Unterverzeichnis gehostet wird, z.B. /repo-name
+url: "https://gkoe.github.io" # passe ggf. an oder lasse leer
+theme: minima
+markdown: kramdown
+permalink: /:title/
