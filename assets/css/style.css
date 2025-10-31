@@ -542,11 +542,21 @@ section {
   .site-title {
     font-size: 1.5rem;
   }
-  /* Hamburger sichtbar, Navigation initial versteckt */
-  .menu-toggle { display: inline-flex; align-items: center; gap: 0.5rem; }
-  .main-nav { display: none; flex-direction: column; width: 100%; gap: 0.25rem; }
-  .nav-toggle:checked ~ .main-nav { display: flex; }
-  .main-nav a { display: block; padding: 0.75rem 1rem; width: 100%; }
+  /* Menü linksbündig anzeigen, Toggle ausblenden */
+  .menu-toggle { display: none; }
+  .main-nav {
+    display: flex !important;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 0.25rem;
+  }
+  .main-nav a {
+    display: inline-block;
+    padding: 0.5rem 0.5rem;
+    width: auto;
+  }
   
   /* Wrap Container */
   .wrap {
@@ -643,7 +653,8 @@ section {
   
   .main-nav a {
     font-size: 1rem;
-    padding: 0.7rem 0.8rem;
+    padding: 0.5rem 0.5rem;
+    width: auto;
   }
   
   h1 { font-size: 1.75em; }
