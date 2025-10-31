@@ -1,10 +1,12 @@
 ﻿<header class="site-header">
   <div class="wrap">
-    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-
-    <!-- Mobile Menü Toggle (CSS-only) -->
+    <!-- Mobile Menü Toggle (CSS-only) - muss Geschwister von nav sein -->
     <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
-    <label for="nav-toggle" class="menu-toggle" aria-label="Menü öffnen oder schließen">☰ Menü</label>
+
+    <div class="brand-row">
+      <label for="nav-toggle" class="menu-toggle" aria-label="Menü öffnen oder schließen">☰</label>
+      <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    </div>
 
     <nav class="main-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="{{ '/' | relative_url }}">Start</a>
