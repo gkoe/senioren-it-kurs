@@ -548,6 +548,16 @@ section {
   .site-title {
     font-size: 1.5rem;
   }
+  
+  /* Hamburger ganz links am Bildschirmrand */
+  .menu-toggle {
+    margin-left: -0.5rem;  /* kompensiert wrap-padding, sodass Icon am Rand klebt */
+  }
+  
+  .brand-row {
+    width: 100%;
+  }
+  
   /* Hamburger sichtbar, Navigation per Toggle */
   .menu-toggle { display: inline-flex; align-items: center; gap: 0.5rem; }
   .main-nav { display: none; flex-direction: column; align-items: flex-start; width: 100%; gap: 0.25rem; }
