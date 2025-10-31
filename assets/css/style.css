@@ -399,6 +399,24 @@ section {
   margin: 0.5rem 0;
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.site-footer .footer-links {
+  font-size: 0.85em;
+  margin-top: 0.75rem;
+}
+
+.site-footer a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease;
+}
+
+.site-footer a:hover {
+  color: #ffffff;
+  border-bottom-color: rgba(255, 255, 255, 0.8);
 }
 
 /* ========================================
