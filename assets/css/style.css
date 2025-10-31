@@ -343,6 +343,17 @@ section {
   margin: 3rem 0;
 }
 
+/* Ersten Block im Inhalt oben nicht zusätzlich einrücken */
+.content .wrap > section:first-child {
+  margin-top: 0;
+}
+.content .wrap > article:first-child {
+  margin-top: 0;
+}
+.content .wrap > .cta-box:first-child {
+  margin-top: 0;
+}
+
 #kontakt {
   background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
   border: 2px solid #fbbf24;
