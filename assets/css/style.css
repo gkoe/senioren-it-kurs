@@ -128,16 +128,22 @@ body {
 /* Mobile menu base elements */
 .nav-toggle { display: none; }
 .menu-toggle {
-  display: none;
-  color: #fff;
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  padding: 0.5rem 0.75rem;
-  border-radius: 8px;
+  display: none;          /* standard: nur mobil zeigen */
+  color: #fff;            /* nur Icon (☰) einfärben */
+  background: transparent;/* kein Button-Look */
+  border: none;
+  padding: 0.25rem 0.5rem;/* große Klickfläche, aber unauffällig */
+  border-radius: 6px;     /* nur für Fokus sichtbar bei Keyboard-Nutzung */
   cursor: pointer;
-  font-weight: 600;
+  font-weight: 700;
   user-select: none;
-  font-size: 1.2rem;
+  font-size: 1.4rem;      /* drei Striche gut sichtbar */
+  line-height: 1;
+}
+
+.menu-toggle:focus-visible {
+  outline: 3px solid rgba(255,255,255,0.6);
+  outline-offset: 2px;
 }
 
 /* ========================================
@@ -542,21 +548,11 @@ section {
   .site-title {
     font-size: 1.5rem;
   }
-  /* Menü linksbündig anzeigen, Toggle ausblenden */
-  .menu-toggle { display: none; }
-  .main-nav {
-    display: flex !important;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: flex-start;
-    width: 100%;
-    gap: 0.25rem;
-  }
-  .main-nav a {
-    display: inline-block;
-    padding: 0.5rem 0.5rem;
-    width: auto;
-  }
+  /* Hamburger sichtbar, Navigation per Toggle */
+  .menu-toggle { display: inline-flex; align-items: center; gap: 0.5rem; }
+  .main-nav { display: none; flex-direction: column; align-items: flex-start; width: 100%; gap: 0.25rem; }
+  .nav-toggle:checked ~ .main-nav { display: flex; }
+  .main-nav a { display: inline-block; padding: 0.5rem 0.5rem; width: auto; }
   
   /* Wrap Container */
   .wrap {
