@@ -168,7 +168,11 @@
   <script>
     // Wenn bereits eingeloggt, weiterleiten
     if (SeniorenAuth.isAuthenticated()) {
-      const redirect = sessionStorage.getItem('senioren-it-redirect') || '/senioren-it-kurs/';
+      let redirect = sessionStorage.getItem('senioren-it-redirect') || '/senioren-it-kurs/home/';
+      // Falls Root als Redirect gespeichert ist, auf /home/ umleiten
+      if (redirect === '/senioren-it-kurs/' || redirect === '/senioren-it-kurs') {
+        redirect = '/senioren-it-kurs/home/';
+      }
       sessionStorage.removeItem('senioren-it-redirect');
       window.location.href = redirect;
     }
@@ -186,7 +190,10 @@
         errorMsg.classList.remove('show');
         
         // Weiterleitung zur ursprünglich angeforderten Seite oder Homepage
-        const redirect = sessionStorage.getItem('senioren-it-redirect') || '/senioren-it-kurs/';
+        let redirect = sessionStorage.getItem('senioren-it-redirect') || '/senioren-it-kurs/home/';
+        if (redirect === '/senioren-it-kurs/' || redirect === '/senioren-it-kurs') {
+          redirect = '/senioren-it-kurs/home/';
+        }
         sessionStorage.removeItem('senioren-it-redirect');
         window.location.href = redirect;
       } else {

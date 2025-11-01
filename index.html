@@ -6,12 +6,13 @@
   <title>Weiterleitung...</title>
   <script src="assets/js/auth.js"></script>
   <script>
-    // Weiterleitung abhängig vom Login-Status
+    // Weiterleitung abhängig vom Login-Status (vermeidet Redirect-Loop)
     (function() {
       var base = '/senioren-it-kurs/';
+      var home = base + 'home/';
       var login = base + 'login.html';
       if (typeof SeniorenAuth !== 'undefined' && SeniorenAuth.isAuthenticated()) {
-        window.location.replace(base); // zur gerenderten Startseite
+        window.location.replace(home); // zur inhaltlichen Startseite
       } else {
         window.location.replace(login);
       }
