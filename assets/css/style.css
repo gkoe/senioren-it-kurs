@@ -575,6 +575,7 @@ section {
   
   .brand-row {
     width: 100%;
+    min-width: 0; /* erlaubt Ellipsis beim Titel */
   }
   
   /* Hamburger sichtbar, Navigation per Toggle */
@@ -582,6 +583,16 @@ section {
   .main-nav { display: none; flex-direction: column; align-items: flex-start; width: 100%; gap: 0.25rem; }
   .nav-toggle:checked ~ .main-nav { display: flex; }
   .main-nav a { display: inline-block; padding: 0.5rem 0.5rem; width: auto; }
+  
+  /* Titel einzeilig mit Auslassungspunkten */
+  .site-title { flex: 1; min-width: 0; }
+  .site-title a {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+  }
   
   /* Wrap Container */
   .wrap {
