@@ -14,8 +14,7 @@ permalink: /home/
   <section id="termine" class="cta-box">
     <h3>Aktuelle Termine</h3>
     <ul style="list-style: none; padding: 0;">
-      <li><strong>Nächster Kurs:</strong> Smartphone-Grundlagen (Android/iPhone) – <strong>Montag, 15. Nov, 10:00 Uhr</strong></li>
-      <li><strong>Offene Sprechstunde:</strong> Fragen und Antworten – <strong>Mittwoch, 17. Nov, 14:00 Uhr</strong></li>
+      <li><strong>Erster Kursabend:</strong> „Einsatz der künstlichen Intelligenz im privaten Umfeld“ – <strong>Donnerstag, 6. Nov 2025</strong> (Uhrzeit wird noch bekanntgegeben) · Ort: Freundeskreis</li>
     </ul>
     <a href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
   </section>

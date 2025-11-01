@@ -11,6 +11,18 @@ description: Aktuelle Termine für unsere IT-Kurse
   <ul class="termine-list">
     <li class="termin">
       <div class="termin-header">
+        <h3> Einsatz der künstlichen Intelligenz im privaten Umfeld</h3>
+        <span class="termin-badge ki">KI</span>
+      </div>
+      <div class="termin-details">
+        <p><strong> Datum:</strong> Donnerstag, 6. November 2025</p>
+        <p><strong> Uhrzeit:</strong> wird noch bekanntgegeben</p>
+        <p><strong> Ort:</strong> Freundeskreis</p>
+        <p><strong> Inhalt:</strong> Praktische Beispiele für den Alltag: Texte schreiben/überarbeiten, Infos zusammenfassen, Bilder erstellen, Sprachfunktionen – plus Chancen, Grenzen und Datenschutz.</p>
+      </div>
+    </li>
+    <li class="termin">
+      <div class="termin-header">
         <h3> Smartphone-Grundlagen</h3>
         <span class="termin-badge">Android & iPhone</span>
       </div>

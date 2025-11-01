@@ -6,9 +6,23 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
 <div class="wrap">
   <section id="uebersicht">
-    <h2>Unsere vier Kursabende</h2>
+    <h2>Unsere Kursabende</h2>
     <p>Alle Angebote sind einzeln buchbar. Vorkenntnisse sind nicht notwendig – wir üben Schritt für Schritt.</p>
   </section>
+
+  <article class="kurs" id="ki-privat">
+    <h3>🤖 KI im Alltag: Einsatz im privaten Umfeld</h3>
+    <p>Was kann künstliche Intelligenz heute ganz praktisch für dich tun? Wir zeigen dir verständlich und mit vielen Beispielen, wie KI-Tools im Alltag helfen – sicher und verantwortungsvoll.</p>
+    <ul>
+      <li>Texte einfacher schreiben und überarbeiten (E‑Mails, Briefe, Formulare)</li>
+      <li>Informationen schneller finden und zusammenfassen</li>
+      <li>Bilder erstellen und bearbeiten – Chancen und Grenzen</li>
+      <li>Sprachassistenten: diktieren, übersetzen, vorlesen lassen</li>
+      <li>Datenschutz, Urheberrecht, seriöse Quellen und „Halluzinationen“</li>
+    </ul>
+    <p><strong>Format:</strong> 2 Stunden, verständlich und praxisnah<br>
+       <strong>Mitbringen:</strong> Smartphone oder Notebook (wenn vorhanden)</p>
+  </article>
 
   <article class="kurs" id="optimale-handynutzung">
     <h3>📱 Optimale Handynutzung</h3>
