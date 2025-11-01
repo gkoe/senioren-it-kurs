@@ -34,6 +34,6 @@ description: Materialien und Handouts zum Kurs
   <section style="margin-top: 3rem; padding: 1.5rem; background: var(--bg-gray); border-radius: var(--border-radius);">
     <h3>Weitere Materialien</h3>
   <p>Hast du Fragen zu den Materialien oder benötigst du zusätzliche Unterlagen? Kontaktiere uns gerne!</p>
-    <p><strong>E-Mail:</strong> kurs@example.org (bitte durch echte E-Mail ersetzen)</p>
+    <p><strong>E-Mail:</strong> gerald.koeck@aon.at</p>
   </section>
 </div>

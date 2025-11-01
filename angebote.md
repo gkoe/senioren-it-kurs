@@ -100,7 +100,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
   <section id="anmeldung" class="cta-box">
     <h3>Jetzt anmelden!</h3>
     <p>Interesse an einem oder mehreren Kursen? Melde dich gerne bei uns!</p>
-    <p style="font-size: 1.1rem; margin: 1rem 0;"><strong>📧 E-Mail:</strong> kurs@example.org<br>
+    <p style="font-size: 1.1rem; margin: 1rem 0;"><strong>📧 E-Mail:</strong> gerald.koeck@aon.at<br>
     <strong>ℹ️ Hinweis:</strong> Max. 8 Teilnehmende pro Kurs</p>
     <p style="font-size: 0.95rem; margin-top: 1rem;">Alle Kurse sind einzeln buchbar. Vorkenntnisse sind nicht notwendig!</p>
   </section>
