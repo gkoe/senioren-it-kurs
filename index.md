@@ -18,11 +18,7 @@ description: IT für Senioren - Technik einfach lernen
   <li><strong>27.11.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#optimale-handynutzung' | relative_url }}">Optimale Handynutzung</a></strong></li>
   <li><strong>04.12.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#backup-ohne-mitleid' | relative_url }}">Ohne Backup kein Mitleid</a></strong></li>
   <li><strong>11.12.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#zugangsdaten-sicher' | relative_url }}">Sicherer Umgang mit Zugangsdaten</a></strong></li>
-    </ul>
-    <p style="text-align: center; margin-top: 1rem;">
-      <a class="link-plain" href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
-    </p>
-  </section>
+</section>
 
   
 
