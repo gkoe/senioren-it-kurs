@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=login.html">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weiterleitung...</title>
+  <script src="assets/js/auth.js"></script>
+  <script>
+    // Wenn bereits eingeloggt, direkt zur Hauptseite
+    if (typeof SeniorenAuth !== 'undefined' && SeniorenAuth.isAuthenticated()) {
+      window.location.href = 'index.md';
+    } else {
+      window.location.href = 'login.html';
+    }
+  </script>
+</head>
+<body>
+  <p>Weiterleitung zur Anmeldung...</p>
+</body>
+</html>
