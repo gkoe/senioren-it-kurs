@@ -28,8 +28,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Montag, 15. November 2025</p>
-        <p><strong> Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
-        <p><strong> Ort:</strong> Seniorenzentrum A</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
         <p><strong> Inhalt:</strong> Optimale Handynutzung - Grundlegende Bedienung, wichtige Einstellungen und Barrierefreiheit</p>
       </div>
     </li>
@@ -41,8 +41,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Mittwoch, 17. November 2025</p>
-        <p><strong> Uhrzeit:</strong> 14:00 - 16:00 Uhr</p>
-        <p><strong> Ort:</strong> Seniorenzentrum A</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
   <p><strong> Inhalt:</strong> Bring deine Fragen und Geräte mit – wir helfen dir individuell weiter!</p>
       </div>
     </li>
@@ -54,8 +54,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Montag, 22. November 2025</p>
-        <p><strong> Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
-        <p><strong> Ort:</strong> Seniorenzentrum A</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
         <p><strong> Inhalt:</strong> Passwörter richtig verwalten, Zwei-Faktor-Anmeldung und Phishing erkennen</p>
       </div>
     </li>
@@ -67,8 +67,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Montag, 29. November 2025</p>
-        <p><strong> Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
-        <p><strong> Ort:</strong> Seniorenzentrum A</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
         <p><strong> Inhalt:</strong> Cloud, externe Festplatte und automatische Sicherungen richtig einrichten</p>
       </div>
     </li>
@@ -80,8 +80,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Montag, 6. Dezember 2025</p>
-        <p><strong> Uhrzeit:</strong> 10:00 - 12:00 Uhr</p>
-        <p><strong> Ort:</strong> Seniorenzentrum A</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
         <p><strong> Inhalt:</strong> Touren planen, navigieren und Offline-Karten nutzen mit der Komoot-App</p>
       </div>
     </li>
