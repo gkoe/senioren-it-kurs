@@ -28,7 +28,6 @@ description: IT für Senioren - Technik einfach lernen
 
   <section id="kontakt">
   <h3>Kontakt & Anmeldung</h3>
-  <p>Hast du Fragen oder möchtest dich anmelden? Kontaktiere uns gerne!</p>
-    <p><strong>E-Mail:</strong> kurs@example.org (bitte durch echte E-Mail ersetzen)</p>
+    <p><strong>E-Mail:</strong> gerald.koeck@aon.at</p>
   </section>
 </div>
