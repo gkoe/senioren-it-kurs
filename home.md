@@ -21,7 +21,7 @@ permalink: /home/
       <li><strong>11.12.2025</strong> <strong><a href="{{ '/angebote/#zugangsdaten-sicher' | relative_url }}">Sicherer Umgang mit Zugangsdaten</a></strong></li>
     </ul>
     <p style="text-align: center; margin-top: 1rem;">
-      <a href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
+      <a class="link-plain" href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
     </p>
   </section>
 

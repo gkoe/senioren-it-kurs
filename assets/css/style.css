@@ -426,6 +426,23 @@ section {
   text-decoration: none;
 }
 
+/* Plain link variant inside CTA (no button look, black text) */
+.cta-box a.link-plain {
+  background: transparent !important;
+  color: #111 !important;
+  padding: 0;
+  border-radius: 0;
+  display: inline;
+  text-decoration: underline;
+  transform: none;
+}
+.cta-box a.link-plain:hover {
+  background: transparent !important;
+  color: #000 !important;
+  text-decoration: underline;
+  transform: none;
+}
+
 /* ========================================
    Footer
    ======================================== */
