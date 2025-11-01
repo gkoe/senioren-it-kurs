@@ -13,11 +13,11 @@ description: IT für Senioren - Technik einfach lernen
   <section id="termine" class="cta-box">
     <h3>Aktuelle Termine</h3>
     <ul style="list-style: none; padding: 0;">
-      <li><strong>06.11.2025, 17:30 Uhr</strong> · HTL‑Leonding — <strong>KI im privaten Umfeld</strong></li>
-      <li><strong>20.11.2025, 17:30 Uhr</strong> · HTL‑Leonding — <strong>Radfahren mit Komoot</strong></li>
-      <li><strong>27.11.2025, 17:30 Uhr</strong> · HTL‑Leonding — <strong>Optimale Handynutzung</strong></li>
-      <li><strong>04.12.2025, 17:30 Uhr</strong> · HTL‑Leonding — <strong>Ohne Backup kein Mitleid</strong></li>
-      <li><strong>11.12.2025, 17:30 Uhr</strong> · HTL‑Leonding — <strong>Sicherer Umgang mit Zugangsdaten</strong></li>
+      <li><strong>06.11.2025</strong> — <strong>KI im privaten Umfeld</strong></li>
+      <li><strong>20.11.2025</strong> — <strong>Radfahren mit Komoot</strong></li>
+      <li><strong>27.11.2025</strong> — <strong>Optimale Handynutzung</strong></li>
+      <li><strong>04.12.2025</strong> — <strong>Ohne Backup kein Mitleid</strong></li>
+      <li><strong>11.12.2025</strong> — <strong>Sicherer Umgang mit Zugangsdaten</strong></li>
     </ul>
     <a href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
   </section>
