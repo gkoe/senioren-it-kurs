@@ -13,7 +13,7 @@ description: IT für Senioren - Technik einfach lernen
   <section id="termine" class="cta-box">
     <h3>Aktuelle Termine</h3>
     <ul style="list-style: none; padding: 0;">
-      <li><strong>Erster Kursabend:</strong> „Einsatz der künstlichen Intelligenz im privaten Umfeld“ – <strong>Donnerstag, 6. Nov 2025</strong> (Uhrzeit wird noch bekanntgegeben) · Ort: Freundeskreis</li>
+  <li><strong>Erster Kursabend:</strong> „Einsatz der künstlichen Intelligenz im privaten Umfeld“ – <strong>Donnerstag, 6. Nov 2025</strong>, <strong>17:30 Uhr</strong> · Ort: <strong>HTL-Leonding</strong></li>
     </ul>
     <a href="{{ '/termine/' | relative_url }}">Alle Termine ansehen</a>
   </section>

@@ -16,8 +16,8 @@ description: Aktuelle Termine für unsere IT-Kurse
       </div>
       <div class="termin-details">
         <p><strong> Datum:</strong> Donnerstag, 6. November 2025</p>
-        <p><strong> Uhrzeit:</strong> wird noch bekanntgegeben</p>
-        <p><strong> Ort:</strong> Freundeskreis</p>
+  <p><strong> Uhrzeit:</strong> 17:30 Uhr</p>
+  <p><strong> Ort:</strong> HTL-Leonding</p>
         <p><strong> Inhalt:</strong> Praktische Beispiele für den Alltag: Texte schreiben/überarbeiten, Infos zusammenfassen, Bilder erstellen, Sprachfunktionen – plus Chancen, Grenzen und Datenschutz.</p>
       </div>
     </li>
