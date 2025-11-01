@@ -12,7 +12,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="optimale-handynutzung">
     <h3>📱 Optimale Handynutzung</h3>
-    <p>Wir richten Ihr Smartphone so ein, dass es zu Ihnen passt: gut lesbar, leicht bedienbar und sicher.</p>
+  <p>Wir richten dein Smartphone so ein, dass es zu dir passt: gut lesbar, leicht bedienbar und sicher.</p>
     <ul>
       <li>Startbildschirm, Apps ordnen, Widgets und Benachrichtigungen</li>
       <li>Akku sparen, Speicherplatz schaffen, Updates verstehen</li>
@@ -34,13 +34,13 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
       <li>Phishing erkennen: typische Warnzeichen</li>
       <li>Postfach aufräumen, wichtige Sicherheitseinstellungen</li>
     </ul>
-    <p><strong>Format:</strong> 2 Stunden, Praxis mit Beispielen<br>
-       <strong>Mitbringen:</strong> Zugang zu Ihrem E-Mail-Postfach, Smartphone für 2FA</p>
+   <p><strong>Format:</strong> 2 Stunden, Praxis mit Beispielen<br>
+     <strong>Mitbringen:</strong> Zugang zu deinem E-Mail-Postfach, Smartphone für 2FA</p>
   </article>
 
   <article class="kurs" id="backup-ohne-mitleid">
     <h3>💾 Ohne Backup kein Mitleid</h3>
-    <p>Wir zeigen, wie Sie Fotos und Daten automatisch sichern und bei Bedarf einfach wiederherstellen.</p>
+  <p>Wir zeigen, wie du Fotos und Daten automatisch sicherst und bei Bedarf einfach wiederherstellst.</p>
     <ul>
       <li>Backup-Arten verstehen: Cloud vs. externe Festplatte/USB</li>
       <li>Automatische Sicherung am Smartphone und PC einrichten</li>
@@ -62,13 +62,13 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
       <li>Akku sparen unterwegs, Kartenverständnis</li>
       <li>Verknüpfen mit Fahrradcomputer oder Smartwatch (wenn vorhanden)</li>
     </ul>
-    <p><strong>Format:</strong> 2 Stunden, Praxis mit Ihrem Gerät<br>
+  <p><strong>Format:</strong> 2 Stunden, Praxis mit deinem Gerät<br>
        <strong>Mitbringen:</strong> Smartphone, optional Fahrradcomputer/Smartwatch</p>
   </article>
 
   <section id="anmeldung" class="cta-box">
     <h3>Jetzt anmelden!</h3>
-    <p>Interesse an einem oder mehreren Kursen? Melden Sie sich gerne bei uns!</p>
+  <p>Interesse an einem oder mehreren Kursen? Melde dich gerne bei uns!</p>
     <a href="#kontakt">Kontakt aufnehmen</a>
   </section>
 </div>

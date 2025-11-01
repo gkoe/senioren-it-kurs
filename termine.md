@@ -6,7 +6,7 @@ description: Aktuelle Termine für unsere IT-Kurse
 
 <div class="wrap">
   <h2>Aktuelle Kurstermine</h2>
-  <p>Hier finden Sie die nächsten Termine unserer Kursangebote. Alle Kurse sind einzeln buchbar und in kleinen Gruppen (max. 8 Personen).</p>
+  <p>Hier findest du die nächsten Termine unserer Kursangebote. Alle Kurse sind einzeln buchbar und in kleinen Gruppen (max. 8 Personen).</p>
 
   <ul class="termine-list">
     <li class="termin">
@@ -31,7 +31,7 @@ description: Aktuelle Termine für unsere IT-Kurse
         <p><strong> Datum:</strong> Mittwoch, 17. November 2025</p>
         <p><strong> Uhrzeit:</strong> 14:00 - 16:00 Uhr</p>
         <p><strong> Ort:</strong> Seniorenzentrum A</p>
-        <p><strong> Inhalt:</strong> Bringen Sie Ihre Fragen und Geräte mit - wir helfen Ihnen individuell weiter!</p>
+  <p><strong> Inhalt:</strong> Bring deine Fragen und Geräte mit – wir helfen dir individuell weiter!</p>
       </div>
     </li>
     
@@ -77,7 +77,7 @@ description: Aktuelle Termine für unsere IT-Kurse
 
   <section id="anmeldung" class="cta-box">
     <h3>Jetzt anmelden!</h3>
-    <p>Möchten Sie an einem oder mehreren Kursen teilnehmen?</p>
+  <p>Möchtest du an einem oder mehreren Kursen teilnehmen?</p>
     <p style="font-size: 1.1rem; margin: 1rem 0;"><strong> E-Mail:</strong> kurs@example.org<br>
     <strong>ℹ Hinweis:</strong> Max. 8 Teilnehmende pro Kurs</p>
     <p style="font-size: 0.95rem; margin-top: 1rem;">Alle Kurse sind einzeln buchbar. Vorkenntnisse sind nicht notwendig!</p>

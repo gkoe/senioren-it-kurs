@@ -7,7 +7,7 @@ description: IT für Senioren - Technik einfach lernen
 <div class="wrap">
   <section id="willkommen">
     <h2>Herzlich willkommen!</h2>
-    <p>Die digitale Welt kann manchmal verwirrend sein. Wir helfen Ihnen, Geräte wie <strong>Smartphones, Tablets und Computer</strong> entspannt und sicher zu nutzen. Wir machen Technik einfach und verständlich – persönlich und ohne Stress.</p>
+  <p>Die digitale Welt kann manchmal verwirrend sein. Wir helfen dir, Geräte wie <strong>Smartphones, Tablets und Computer</strong> entspannt und sicher zu nutzen. Wir machen Technik einfach und verständlich – persönlich und ohne Stress.</p>
   </section>
 
   <section id="termine" class="cta-box">
@@ -30,8 +30,8 @@ description: IT für Senioren - Technik einfach lernen
   <p><a href="{{ '/angebote/' | relative_url }}">Zu allen Kursangeboten →</a></p>
 
   <section id="kontakt">
-    <h3>Kontakt & Anmeldung</h3>
-    <p>Haben Sie Fragen oder möchten sich anmelden? Kontaktieren Sie uns gerne!</p>
+  <h3>Kontakt & Anmeldung</h3>
+  <p>Hast du Fragen oder möchtest dich anmelden? Kontaktiere uns gerne!</p>
     <p><strong>E-Mail:</strong> kurs@example.org (bitte durch echte E-Mail ersetzen)</p>
   </section>
 </div>
