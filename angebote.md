@@ -1,17 +1,20 @@
 ---
 layout: default
-title: Angebote & Kurse
+title: Kursabende
 description: Unsere Kursabende – verständlich, praxisnah und in kleinen Gruppen
 ---
 
 <div class="wrap">
   <section id="uebersicht">
     <h2>Unsere Kursabende</h2>
-    <p>Alle Angebote sind einzeln nutzbar. Vorkenntnisse sind nicht notwendig – wir üben Schritt für Schritt.</p>
+    <p>Alle Angebote sind einzeln nutzbar. Vorkenntnisse sind nicht notwendig – wir üben Schritt für Schritt. Alle Kurse finden in kleinen Gruppen (max. 8 Personen) statt.</p>
   </section>
 
   <article class="kurs" id="ki-privat">
     <h3>🤖 KI im Alltag: Einsatz im privaten Umfeld</h3>
+    <p><strong>📅 Datum:</strong> Donnerstag, 6. November 2025<br>
+       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
+       <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Was kann künstliche Intelligenz heute ganz praktisch für dich tun? Wir zeigen dir verständlich und mit vielen Beispielen, wie KI-Tools im Alltag helfen – sicher und verantwortungsvoll.</p>
     <ul>
       <li>Texte einfacher schreiben und überarbeiten (E‑Mails, Briefe, Formulare)</li>
@@ -27,7 +30,10 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
   <!-- Reihenfolge wie Termine: KI → Komoot → Handy → Backup → Sicherheit -->
 
   <article class="kurs" id="komoot-radfahren">
-    <h3>� Radfahren mit Komoot</h3>
+    <h3>🚴 Radfahren mit Komoot</h3>
+    <p><strong>📅 Datum:</strong> Donnerstag, 20. November 2025<br>
+       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
+       <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Touren planen, navigieren und sicher ankommen – Komoot leicht erklärt.</p>
     <ul>
       <li>Komoot-Konto anlegen und Grundeinstellungen</li>
@@ -41,8 +47,11 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
   </article>
 
   <article class="kurs" id="optimale-handynutzung">
-    <h3>� Optimale Handynutzung</h3>
-  <p>Wir richten dein Smartphone so ein, dass es zu dir passt: gut lesbar, leicht bedienbar und sicher.</p>
+    <h3>📱 Optimale Handynutzung</h3>
+    <p><strong>📅 Datum:</strong> Donnerstag, 27. November 2025<br>
+       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
+       <strong>📍 Ort:</strong> HTL-Leonding</p>
+    <p>Wir richten dein Smartphone so ein, dass es zu dir passt: gut lesbar, leicht bedienbar und sicher.</p>
     <ul>
       <li>Startbildschirm, Apps ordnen, Widgets und Benachrichtigungen</li>
       <li>Akku sparen, Speicherplatz schaffen, Updates verstehen</li>
@@ -56,7 +65,10 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="backup-ohne-mitleid">
     <h3>💾 Ohne Backup kein Mitleid</h3>
-  <p>Wir zeigen, wie du Fotos und Daten automatisch sicherst und bei Bedarf einfach wiederherstellst.</p>
+    <p><strong>📅 Datum:</strong> Donnerstag, 4. Dezember 2025<br>
+       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
+       <strong>📍 Ort:</strong> HTL-Leonding</p>
+    <p>Wir zeigen, wie du Fotos und Daten automatisch sicherst und bei Bedarf einfach wiederherstellst.</p>
     <ul>
       <li>Backup-Arten verstehen: Cloud vs. externe Festplatte/USB</li>
       <li>Automatische Sicherung am Smartphone und PC einrichten</li>
@@ -69,7 +81,10 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
   </article>
 
   <article class="kurs" id="zugangsdaten-sicher">
-    <h3>� Sicherer Umgang mit Zugangsdaten</h3>
+    <h3>🔐 Sicherer Umgang mit Zugangsdaten</h3>
+    <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
+       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
+       <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>So bleiben Passwörter, E-Mail und Online-Konten geschützt – verständlich erklärt.</p>
     <ul>
       <li>Sichere Passwörter einfach erstellen und merken</li>
@@ -84,7 +99,9 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <section id="anmeldung" class="cta-box">
     <h3>Jetzt anmelden!</h3>
-  <p>Interesse an einem oder mehreren Kursen? Melde dich gerne bei uns!</p>
-    <a href="#kontakt">Kontakt aufnehmen</a>
+    <p>Interesse an einem oder mehreren Kursen? Melde dich gerne bei uns!</p>
+    <p style="font-size: 1.1rem; margin: 1rem 0;"><strong>📧 E-Mail:</strong> kurs@example.org<br>
+    <strong>ℹ️ Hinweis:</strong> Max. 8 Teilnehmende pro Kurs</p>
+    <p style="font-size: 0.95rem; margin-top: 1rem;">Alle Kurse sind einzeln buchbar. Vorkenntnisse sind nicht notwendig!</p>
   </section>
 </div>
