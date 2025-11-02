@@ -1,0 +1,29 @@
+title: Admira Linz Senioren
+description: Mini-Webauftritt für die Senior:innen des FC Admira Linz
+lang: de
+permalink: pretty
+
+# Für GitHub Pages Projektseiten ggf. baseurl setzen, z. B. "/admira-senioren"
+baseurl: ""
+url: ""
+
+collections:
+  termine:
+    output: true
+    permalink: /termine/:name/
+
+# Sortierung
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: "_termine"
+      type: termine
+    values:
+      layout: termine
+
+# Theme-Plugins vermeiden (GitHub Pages safe mode)
+plugins: []
