@@ -227,7 +227,8 @@ permalink: /kurse/ki-im-alltag/
 
 
       <p style="margin:.25rem 0 0 0; font-size:.9rem; opacity:.9;"><strong>Hinweis Rechtliches:</strong> Logos, Fotos, Grafiken und spezifisches CSS/Design von admira.at sind urheberrechtlich geschützt. Nutze eine eigene Farbpalette/Typo, die nur anmutet wie das Vorbild.</p>
-    </div>ion>
+    </div>
+  </section>
 
   <section class="cta-box">
     <h3>Materialien</h3>
