@@ -116,7 +116,7 @@ permalink: /kurse/ki-im-alltag/
   <section class="cta-box">
     <h3>Materialien</h3>
     <ul>
-      <li><a class="link-plain" href="{{ '/assets/ppts/KI-Praxis-2025.md' | relative_url }}">Kursnotizen (aus Präsentation extrahiert)</a></li>
+      <li><a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Übungsbild: Ohne_Akku.png herunterladen</a></li>
       <li>Bilder: <code>assets/kurse/ki/</code> im Repository</li>
     </ul>
   </section>
