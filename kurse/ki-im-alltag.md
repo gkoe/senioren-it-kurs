@@ -142,7 +142,6 @@ permalink: /kurse/ki-im-alltag/
     <h3>Materialien</h3>
     <ul>
       <li><a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Übungsbild: Ohne_Akku.png herunterladen</a></li>
-      <li>Bilder: <code>assets/kurse/ki/</code> im Repository</li>
     </ul>
     <p style="font-size:.95rem; opacity:.9; margin:.25rem 0 0 0;">Hinweis: Dieses Bild verwenden wir in der Bild‑Übung weiter oben.</p>
   </section>
