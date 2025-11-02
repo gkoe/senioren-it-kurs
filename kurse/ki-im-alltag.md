@@ -94,7 +94,9 @@ permalink: /kurse/ki-im-alltag/
       <li>Frag die KI nach einer Schritt-für-Schritt-Anleitung zu einem Alltagsproblem</li>
       <li>Lass einen kurzen, freundlichen Antworttext für eine E-Mail formulieren</li>
       <li>Erzeuge ein Bild „im Stil von …“ (ohne reale Marken/Personen zu kopieren)</li>
-      <li><strong>Bild-Übung:</strong> Passe das Bild <em>Ohne_Akku.png</em> so an, dass <em>Text</em> und <em>Fahrrad</em> verändert werden. Zielbild: <em>mit_akku.png</em>.</li>
+      <li><strong>Bild-Übung:</strong> Passe das Bild <em>Ohne_Akku.png</em> so an, dass <em>Text</em> und <em>Fahrrad</em> verändert werden. Zielbild: <em>mit_akku.png</em>. 
+        <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Download: Ohne_Akku.png</a>
+      </li>
     </ul>
 
     <div style="margin-top: 1rem; background: var(--bg-gray); padding: 1rem; border-radius: var(--border-radius);">
@@ -119,6 +121,7 @@ permalink: /kurse/ki-im-alltag/
       <li><a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Übungsbild: Ohne_Akku.png herunterladen</a></li>
       <li>Bilder: <code>assets/kurse/ki/</code> im Repository</li>
     </ul>
+    <p style="font-size:.95rem; opacity:.9; margin:.25rem 0 0 0;">Hinweis: Dieses Bild verwenden wir in der Bild‑Übung weiter oben.</p>
   </section>
 
   <p style="margin-top:2rem;"><a class="link-plain" href="{{ '/angebote/#ki-privat' | relative_url }}">← Zurück zu den Kursabenden</a></p>
