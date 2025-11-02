@@ -59,6 +59,29 @@ permalink: /kurse/ki-im-alltag/
       <li>Informationen in wenigen Absätzen statt endlosen Suchergebnissen</li>
     </ul>
 
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Praxis-Übung: Recherche mit KI</h5>
+      <p style="margin: 0 0 .5rem 0;">Fragestellung: <em>„Ich habe mein Android‑Smartphone verloren und weiß weder meine Gmail‑Adresse noch das zugehörige Passwort. Gibt es bei Google einen Support, der mir weiterhilft?“</em></p>
+      <ol style="margin: 0 0 .5rem 1.25rem;">
+        <li>Formuliere die Situation in 1–2 Sätzen und bitte um eine <strong>Schritt‑für‑Schritt‑Vorgehensliste</strong> (Konto‑Wiederherstellung, Geräte‑Suche, Passwort‑Reset).</li>
+        <li>Bitte die KI um <strong>Links zu offiziellen Google‑Seiten</strong> (Account Recovery, Find My Device) und prüfe die Hinweise.</li>
+        <li>Frag nach <strong>alternativen Nachweisen</strong>, falls keine Recovery‑E-Mail/Telefonnummer vorhanden ist, und wie man diese künftig einrichtet.</li>
+      </ol>
+      <p style="margin:.25rem 0 0 0;"><strong>Wichtig:</strong> Google bietet <u>keine klassische Support‑Hotline</u> für Privatkonten. Die Wiederherstellung läuft über die <em>Account‑Recovery‑Seiten</em> und hinterlegte Sicherheitsoptionen.</p>
+    </div>
+
+    <details style="margin:.5rem 0;">
+      <summary><strong>Warum der Verlust des Smartphones so kritisch ist</strong></summary>
+      <ul style="margin:.5rem 0 0 1rem;">
+        <li><strong>Kontozugriff verloren:</strong> E‑Mail‑Konto (z. B. Gmail) dient oft als Schlüssel für viele Dienste.</li>
+        <li><strong>Zwei‑Faktor‑Codes</strong> (Authenticator/SMS) liegen meist am Handy – ohne Ersatzweg ist die Anmeldung blockiert.</li>
+        <li><strong>Banking & Behördendienste:</strong> Apps (z. B. E‑Banking, ID‑Austria) sind ans Gerät gebunden.</li>
+        <li><strong>Kontakte & Messenger:</strong> Kommunikation kann unterbrochen sein; Backup/Cloud‑Sync entscheidet über Datenverlust.</li>
+        <li><strong>Missbrauchs‑/Diebstahlrisiko:</strong> Ohne Sperre/Remote‑Löschung drohen Kontoübernahmen (SIM‑Tausch, Phishing).</li>
+        <li><strong>Ortung & Sperre:</strong> „Mein Gerät finden“ hilft nur, wenn aktiv und online; sonst bleibt Recovery der Konten.</li>
+      </ul>
+    </details>
+
     <h4>2) Texte schreiben und überarbeiten</h4>
     <ul>
       <li>Höfliche und klare E-Mails, Briefvorlagen, Protokolle</li>
