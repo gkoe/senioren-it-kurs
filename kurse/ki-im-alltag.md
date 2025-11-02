@@ -153,12 +153,18 @@ permalink: /kurse/ki-im-alltag/
       <li>Frag die KI nach einer Schritt-für-Schritt-Anleitung zu einem Alltagsproblem</li>
       <li>Lass einen kurzen, freundlichen Antworttext für eine E-Mail formulieren</li>
       <li>Erzeuge ein Bild „im Stil von …“ (ohne reale Marken/Personen zu kopieren)</li>
-      <li><strong>Bild-Übung:</strong> Passe das Bild <em>Ohne_Akku.png</em> so an, dass <em>Text</em> und <em>Fahrrad</em> verändert werden. Zielbild: <em>mit_akku.png</em>. 
-        <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Download: Ohne_Akku.png</a>
-      </li>
     </ul>
 
-    <div style="margin-top: 1rem; background: var(--bg-gray); padding: 1rem; border-radius: var(--border-radius);">
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Praxis‑Übung: Bild anpassen</h5>
+      <p style="margin: 0 0 .5rem 0;">Passe das Bild <em>Ohne_Akku.png</em> so an, dass <strong>Text</strong> und <strong>Fahrrad</strong> verändert werden. Zielbild: <em>mit_akku.png</em>.</p>
+      <ol style="margin: 0 0 .5rem 1.25rem;">
+        <li>Öffne ein Bild‑Tool mit KI‑Funktion (z. B. ChatGPT Bild, NanoBanana o. ä.) und lade <em>Ohne_Akku.png</em> hoch.</li>
+        <li>Formuliere deinen <strong>Prompt</strong>: „Ersetze den Text ‚Ohne Akku‘ durch ‚Mit Akku‘. Ergänze beim Fahrrad einen gut sichtbaren Akku am Rahmen und Lichtleisten.“</li>
+        <li>Nutze <strong>Auswahl/Inpainting</strong>, falls das Tool das unterstützt, um nur bestimmte Bereiche zu ändern.</li>
+        <li>Exportiere das Ergebnis und vergleiche mit dem Beispielbild.</li>
+      </ol>
+      <p style="margin:.25rem 0 .5rem 0; font-size:.95rem;"><strong>Tipp‑Prompts:</strong> „Schrift harmonisch einpassen (Farbe, Größe)“ • „Akkuposition realistisch“ • „Lichtreflexe natürlich“</p>
       <p style="margin:0 0 .5rem 0"><strong>Material:</strong> <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Ohne_Akku.png herunterladen</a></p>
       <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items:flex-start;">
         <figure style="flex:1; min-width:220px; margin:0;">
@@ -167,10 +173,9 @@ permalink: /kurse/ki-im-alltag/
         </figure>
         <figure style="flex:1; min-width:220px; margin:0;">
           <img src="{{ '/assets/kurse/ki/mit_akku.png' | relative_url }}" alt="Zielbild: mit_akku">
-          <figcaption style="font-size:.9rem; opacity:.8;">Beispiel-Ziel</figcaption>
+          <figcaption style="font-size:.9rem; opacity:.8;">Beispiel‑Ziel</figcaption>
         </figure>
       </div>
-      <p style="margin-top:.5rem; font-size:.95rem;">Tipp: Beschreibe präzise, was geändert werden soll (z. B. „ersetzte Text ‚Ohne Akku‘ durch ‚Mit Akku‘, passe das Fahrrad an: sichtbarer Akku am Rahmen, Lichtleisten hinzufügen“). Nutze ggf. Auswahlwerkzeuge/Inpainting.</p>
     </div>
   </section>
 
