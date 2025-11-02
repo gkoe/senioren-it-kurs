@@ -234,6 +234,7 @@ permalink: /kurse/ki-im-alltag/
     <h3>Materialien</h3>
     <ul>
       <li><a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Übungsbild: Ohne_Akku.png herunterladen</a></li>
+      <li><a class="link-plain" href="{{ '/assets/downloads/KI-im-Alltag-Slides.html' | relative_url }}" target="_blank" rel="noopener">Präsentation: KI im Alltag (HTML‑Slideshow)</a></li>
     </ul>
     <p style="font-size:.95rem; opacity:.9; margin:.25rem 0 0 0;">Hinweis: Dieses Bild verwenden wir in der Bild‑Übung weiter oben.</p>
   </section>
