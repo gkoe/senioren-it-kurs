@@ -29,6 +29,26 @@ permalink: /kurse/ki-im-alltag/
       <img src="{{ '/assets/kurse/ki/ai_energy.png' | relative_url }}" alt="Energieverbrauch durch KI">
       <figcaption>Energiebedarf von Rechenzentren wächst – bewusst einsetzen lohnt sich.</figcaption>
     </figure>
+
+    <ul>
+      <li><strong>KI als Jobkiller?</strong>
+        <ul>
+          <li>Wiederkehrende Bürotätigkeiten werden durch KI gut unterstützt → <em>Effizienz</em></li>
+          <li>Generieren von Briefinhalten, Protokollen, Mails, …</li>
+          <li>SW-Entwicklung ändert sich gerade massiv</li>
+          <li>Junior-Developer sind aktuell gefährdet</li>
+        </ul>
+      </li>
+      <li><strong>Missbrauch mit KI</strong>
+        <ul>
+          <li>Beeinflussung der Massen (Deepfakes, Desinformation, …)</li>
+        </ul>
+      </li>
+      <li><strong>Cyberkriminalität</strong></li>
+      <li><strong>Abhängigkeit von Big Five (GAFAM)</strong><br>
+        <a class="link-plain" href="https://www.youtube.com/watch?v=z8J2IUXAKWU" target="_blank" rel="noopener">YouTube-Link zum Thema</a>
+      </li>
+    </ul>
   </section>
 
   <section>
