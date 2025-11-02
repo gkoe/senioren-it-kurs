@@ -135,6 +135,54 @@ permalink: /kurse/ki-im-alltag/
       <img src="{{ '/assets/kurse/ki/nano_banana_anassung.png' | relative_url }}" alt="NanoBanana – Person rechts sauber eingefügt">
       <figcaption>Mit NanoBanana wurde die Person rechts deutlich besser eingefügt – Werkzeuge unterscheiden sich in Qualität und Bedienung.</figcaption>
     </figure>
+
+    <h4>4) KI in IT‑Projekten (Beispiele)</h4>
+    <ul>
+      <li><strong>Code‑Assistent</strong>: Snippets generieren, Funktionen erklären, Refactoring‑Vorschläge</li>
+      <li><strong>Tests</strong>: Unit‑/Integrationstests vorschlagen, Kantenfälle identifizieren</li>
+      <li><strong>Daten & SQL</strong>: Abfragen formulieren, Datenmodelle diskutieren</li>
+      <li><strong>DevOps</strong>: README, Changelogs, Pipeline‑Skizzen, IaC‑Skeletons beschreiben</li>
+      <li><strong>Dokumentation</strong>: API‑Beschreibungen, Onboarding‑Guides, Architekturskizzen</li>
+      <li><strong>Sicherheit</strong>: typische Schwachstellen erklären, sichere Defaults anregen</li>
+    </ul>
+
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Praxis‑Übung: Mini‑Webauftritt „Admira Linz Senioren“ mit Jekyll</h5>
+      <p style="margin: 0 0 .5rem 0;">Erstelle mit Hilfe einer KI einen kleinen Webauftritt für die Senior:innen des Fußballvereins <strong>Admira Linz</strong>. Das <em>Grunddesign</em> orientiert sich an <a class="link-plain" href="https://www.admira.at/" target="_blank" rel="noopener">admira.at</a> (Farben/Feeling), ohne Logos, Fotos oder CSS <em>zu kopieren</em>. Gehostet wird mit <strong>Jekyll + GitHub Pages</strong>.</p>
+
+      <ol style="margin: 0 0 .5rem 1.25rem;">
+        <li><strong>Struktur planen</strong> (mit KI): Startseite, <em>Termine</em>, <em>News</em>, <em>Reisen</em>; Navigation, Footer, responsives Layout.</li>
+        <li><strong>Jekyll‑Skeleton erzeugen</strong>: <code>_config.yml</code>, <code>_layouts/default.html</code>, <code>_includes/header.html</code>, <code>_includes/footer.html</code>, <code>assets/css/style.css</code>, Seiten/Posts anlegen.</li>
+        <li><strong>Inhalte modellieren</strong>:
+          <ul>
+            <li><em>News</em> als Blog‑Posts (<code>_posts/YYYY-MM-DD-titel.md</code>), Front‑Matter: <code>title</code>, <code>date</code>, <code>tags</code>.</li>
+            <li><em>Termine</em> als Collection (<code>_termine/</code>), Felder: <code>title</code>, <code>date</code>, <code>time</code>, <code>location</code>, <code>description</code>.</li>
+            <li><em>Reisen</em> als Seite mit Abschnitten (Ziel, Datum, Programm, Kosten, Anmeldung).</li>
+          </ul>
+        </li>
+        <li><strong>Design mit KI abstimmen</strong>: Farbpalette (z. B. Rot/Schwarz/Weiß), passende Web‑Schrift (Google Fonts), Header‑Hero, Buttons, Karten. <em>Nur Inspiration, keine Übernahme fremder Assets.</em></li>
+        <li><strong>Deployment</strong>: Repo auf GitHub anlegen, Code pushen, GitHub Pages aktivieren, Build prüfen.</li>
+      </ol>
+
+      <p style="margin:.25rem 0; font-size:.95rem;"><strong>Beispiel‑Prompts an die KI</strong></p>
+      <ul style="margin: 0 0 .5rem 1.25rem;">
+        <li>„Baue mir ein Jekyll‑Skeleton für ‚Admira Linz Senioren‘ mit Seiten: Start, Termine, News, Reisen. Erzeuge <code>_config.yml</code>, ein <code>default</code>‑Layout, Header/Footer‑Includes und <code>assets/css/style.css</code>.“</li>
+        <li>„Erzeuge zwei Beispiel‑News‑Posts und drei Beispiel‑Termine (Front‑Matter wie oben). Liste Termine nach Datum auf.“</li>
+        <li>„Gib mir CSS für eine Navigation und ein Farbschema in Rot/Schwarz/Weiß, inspiriert von admira.at, aber ohne Logos/Bilder zu übernehmen. Achte auf Kontrast und Mobile‑Ansicht.“</li>
+        <li>„Zeig mir, wie ich GitHub Pages für ein Jekyll‑Projekt aktiviere und typische Fehler (Base‑URL, Gem‑Versionen) vermeide.“</li>
+      </ul>
+
+      <p style="margin:.25rem 0; font-size:.95rem;"><strong>Akzeptanzkriterien</strong></p>
+      <ul style="margin: 0 0 .5rem 1.25rem;">
+        <li>Startseite mit kurzer Vorstellung und Teasern zu „Termine, News, Reisen“</li>
+        <li>Navi/ Footer auf Desktop und Mobil nutzbar; grundlegende Barrierefreiheit (Kontrast, Alt‑Texte)</li>
+        <li>News als Posts, Termine als Collection mit Datum/Uhrzeit/Ort; Reisen als Infoseite</li>
+        <li>GitHub‑Pages‑Build erfolgreich; alle Seiten erreichbar</li>
+        <li>Keine fremden Marken/Assets kopiert; Farben/Schrift nur als Inspiration</li>
+      </ul>
+
+      <p style="margin:.25rem 0 0 0; font-size:.9rem; opacity:.9;"><strong>Hinweis Rechtliches:</strong> Logos, Fotos, Grafiken und spezifisches CSS/Design von admira.at sind urheberrechtlich geschützt. Nutze eine eigene Farbpalette/Typo, die nur anmutet wie das Vorbild.</p>
+    </div>
   </section>
 
   <section>
