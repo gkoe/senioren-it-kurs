@@ -25,6 +25,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
     </ul>
     <p><strong>Format:</strong> 2 Stunden, verständlich und praxisnah<br>
        <strong>Mitbringen:</strong> Smartphone oder Notebook (wenn vorhanden)</p>
+  <p style="margin-top:0.5rem"><a class="link-plain" href="{{ '/kurse/ki-im-alltag/' | relative_url }}">Mehr Details zum Kurs →</a></p>
   </article>
 
   <!-- Reihenfolge wie Termine: KI → Komoot → Handy → Backup → Sicherheit -->
