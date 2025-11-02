@@ -136,6 +136,50 @@ permalink: /kurse/ki-im-alltag/
       <figcaption>Mit NanoBanana wurde die Person rechts deutlich besser eingefügt – Werkzeuge unterscheiden sich in Qualität und Bedienung.</figcaption>
     </figure>
 
+  </section>
+
+  <section>
+    <h3>Sicherheit und Verantwortung</h3>
+    <ul>
+      <li><strong>Quellen prüfen</strong> und wichtige Aussagen gegenchecken</li>
+      <li><strong>Datenschutz</strong>: keine sensiblen Daten in öffentliche KI-Tools eingeben</li>
+      <li><strong>Urheberrecht</strong> und Lizenzen beachten, gerade bei Bildern</li>
+      <li><strong>Deepfakes</strong> erkennen: ungewöhnliche Details, widersprüchliche Schatten/Reflexionen</li>
+    </ul>
+  </section>
+
+  <section>
+    <h3>Übungsideen</h3>
+    <ul>
+      <li>Frag die KI nach einer Schritt-für-Schritt-Anleitung zu einem Alltagsproblem</li>
+      <li>Lass einen kurzen, freundlichen Antworttext für eine E-Mail formulieren</li>
+      <li>Erzeuge ein Bild „im Stil von …“ (ohne reale Marken/Personen zu kopieren)</li>
+    </ul>
+
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Praxis‑Übung: Bild anpassen</h5>
+      <p style="margin: 0 0 .5rem 0;">Passe das Bild <em>Ohne_Akku.png</em> so an, dass <strong>Text</strong> und <strong>Fahrrad</strong> verändert werden. Zielbild: <em>mit_akku.png</em>.</p>
+      <ol style="margin: 0 0 .5rem 1.25rem;">
+        <li>Öffne ein Bild‑Tool mit KI‑Funktion (z. B. ChatGPT Bild, NanoBanana o. ä.) und lade <em>Ohne_Akku.png</em> hoch.</li>
+        <li>Formuliere deinen <strong>Prompt</strong>: „Ersetze den Text ‚Ohne Akku‘ durch ‚Mit Akku‘. Ergänze beim Fahrrad einen gut sichtbaren Akku am Rahmen und Lichtleisten.“</li>
+        <li>Nutze <strong>Auswahl/Inpainting</strong>, falls das Tool das unterstützt, um nur bestimmte Bereiche zu ändern.</li>
+        <li>Exportiere das Ergebnis und vergleiche mit dem Beispielbild.</li>
+      </ol>
+      <p style="margin:.25rem 0 .5rem 0; font-size:.95rem;"><strong>Tipp‑Prompts:</strong> „Schrift harmonisch einpassen (Farbe, Größe)“ • „Akkuposition realistisch“ • „Lichtreflexe natürlich“</p>
+      <p style="margin:0 0 .5rem 0"><strong>Material:</strong> <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Ohne_Akku.png herunterladen</a></p>
+      <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items:flex-start;">
+        <figure style="flex:1; min-width:220px; margin:0;">
+          <img src="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" alt="Ausgangsbild: Ohne_Akku">
+          <figcaption style="font-size:.9rem; opacity:.8;">Ausgangsbild</figcaption>
+        </figure>
+        <figure style="flex:1; min-width:220px; margin:0;">
+          <img src="{{ '/assets/kurse/ki/mit_akku.png' | relative_url }}" alt="Zielbild: mit_akku">
+          <figcaption style="font-size:.9rem; opacity:.8;">Beispiel‑Ziel</figcaption>
+        </figure>
+      </div>
+    </div>
+  </sect
+
     <h4>4) KI in IT‑Projekten (Beispiele)</h4>
     <ul>
       <li><strong>Code‑Assistent</strong>: Snippets generieren, Funktionen erklären, Refactoring‑Vorschläge</li>
@@ -186,50 +230,7 @@ permalink: /kurse/ki-im-alltag/
       </p>
 
       <p style="margin:.25rem 0 0 0; font-size:.9rem; opacity:.9;"><strong>Hinweis Rechtliches:</strong> Logos, Fotos, Grafiken und spezifisches CSS/Design von admira.at sind urheberrechtlich geschützt. Nutze eine eigene Farbpalette/Typo, die nur anmutet wie das Vorbild.</p>
-    </div>
-  </section>
-
-  <section>
-    <h3>Sicherheit und Verantwortung</h3>
-    <ul>
-      <li><strong>Quellen prüfen</strong> und wichtige Aussagen gegenchecken</li>
-      <li><strong>Datenschutz</strong>: keine sensiblen Daten in öffentliche KI-Tools eingeben</li>
-      <li><strong>Urheberrecht</strong> und Lizenzen beachten, gerade bei Bildern</li>
-      <li><strong>Deepfakes</strong> erkennen: ungewöhnliche Details, widersprüchliche Schatten/Reflexionen</li>
-    </ul>
-  </section>
-
-  <section>
-    <h3>Übungsideen</h3>
-    <ul>
-      <li>Frag die KI nach einer Schritt-für-Schritt-Anleitung zu einem Alltagsproblem</li>
-      <li>Lass einen kurzen, freundlichen Antworttext für eine E-Mail formulieren</li>
-      <li>Erzeuge ein Bild „im Stil von …“ (ohne reale Marken/Personen zu kopieren)</li>
-    </ul>
-
-    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
-      <h5 style="margin: 0 0 .5rem 0;">Praxis‑Übung: Bild anpassen</h5>
-      <p style="margin: 0 0 .5rem 0;">Passe das Bild <em>Ohne_Akku.png</em> so an, dass <strong>Text</strong> und <strong>Fahrrad</strong> verändert werden. Zielbild: <em>mit_akku.png</em>.</p>
-      <ol style="margin: 0 0 .5rem 1.25rem;">
-        <li>Öffne ein Bild‑Tool mit KI‑Funktion (z. B. ChatGPT Bild, NanoBanana o. ä.) und lade <em>Ohne_Akku.png</em> hoch.</li>
-        <li>Formuliere deinen <strong>Prompt</strong>: „Ersetze den Text ‚Ohne Akku‘ durch ‚Mit Akku‘. Ergänze beim Fahrrad einen gut sichtbaren Akku am Rahmen und Lichtleisten.“</li>
-        <li>Nutze <strong>Auswahl/Inpainting</strong>, falls das Tool das unterstützt, um nur bestimmte Bereiche zu ändern.</li>
-        <li>Exportiere das Ergebnis und vergleiche mit dem Beispielbild.</li>
-      </ol>
-      <p style="margin:.25rem 0 .5rem 0; font-size:.95rem;"><strong>Tipp‑Prompts:</strong> „Schrift harmonisch einpassen (Farbe, Größe)“ • „Akkuposition realistisch“ • „Lichtreflexe natürlich“</p>
-      <p style="margin:0 0 .5rem 0"><strong>Material:</strong> <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Ohne_Akku.png herunterladen</a></p>
-      <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items:flex-start;">
-        <figure style="flex:1; min-width:220px; margin:0;">
-          <img src="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" alt="Ausgangsbild: Ohne_Akku">
-          <figcaption style="font-size:.9rem; opacity:.8;">Ausgangsbild</figcaption>
-        </figure>
-        <figure style="flex:1; min-width:220px; margin:0;">
-          <img src="{{ '/assets/kurse/ki/mit_akku.png' | relative_url }}" alt="Zielbild: mit_akku">
-          <figcaption style="font-size:.9rem; opacity:.8;">Beispiel‑Ziel</figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
+    </div>ion>
 
   <section class="cta-box">
     <h3>Materialien</h3>
