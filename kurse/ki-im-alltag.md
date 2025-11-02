@@ -225,9 +225,6 @@ permalink: /kurse/ki-im-alltag/
         <li>Keine fremden Marken/Assets kopiert; Farben/Schrift nur als Inspiration</li>
       </ul>
 
-      <p style="margin:.75rem 0 0 0;">
-        <a class="link-plain" href="{{ '/assets/downloads/admira-senioren-starter.zip' | relative_url }}" download>Startpaket herunterladen: admira-senioren-starter.zip</a>
-      </p>
 
       <p style="margin:.25rem 0 0 0; font-size:.9rem; opacity:.9;"><strong>Hinweis Rechtliches:</strong> Logos, Fotos, Grafiken und spezifisches CSS/Design von admira.at sind urheberrechtlich geschützt. Nutze eine eigene Farbpalette/Typo, die nur anmutet wie das Vorbild.</p>
     </div>ion>
