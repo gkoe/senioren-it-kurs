@@ -60,6 +60,16 @@ permalink: /kurse/ki-im-alltag/
     </ul>
 
     <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Beispiel aus der Praxis: Banking‑App meldet Internetprobleme</h5>
+      <p style="margin: 0 0 .5rem 0;">Deine App zeigt „Derzeit sind keine Internetverbindungen möglich“. Ist dein WLAN schuld – oder hat die Bank eine Störung? Bitte die KI um eine kurze Einschätzung und <strong>Links zu Störungs‑Trackern</strong> (z. B. allestoerungen.at) und offiziellen Statusseiten. So siehst du schnell, ob <em>viele Betroffene gleichzeitig</em> Probleme melden – das beruhigt und spart Zeit.</p>
+      <figure style="margin: .5rem 0 0 0;">
+        <img src="{{ '/assets/kurse/ki/easybank_down.png' | relative_url }}" alt="Störungs-Meldungen zur easybank">
+        <figcaption style="font-size:.9rem; opacity:.8;">Ausfall‑Services dokumentieren Zwischenfälle und zeigen Zeitverläufe – hilfreich zur Einordnung.</figcaption>
+      </figure>
+      <p style="margin:.5rem 0 0 0; font-size:.95rem;"><strong>Tipp‑Prompt:</strong> „Gibt es aktuell Störungen bei der easybank in Österreich? Nenne mir 2–3 seriöse Störungs‑Tracker und verlinke die Statusseiten.“</p>
+    </div>
+
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
       <h5 style="margin: 0 0 .5rem 0;">Praxis-Übung: Recherche mit KI</h5>
       <p style="margin: 0 0 .5rem 0;">Fragestellung: <em>„Ich habe mein Android‑Smartphone verloren und weiß weder meine Gmail‑Adresse noch das zugehörige Passwort. Gibt es bei Google einen Support, der mir weiterhilft?“</em></p>
       <ol style="margin: 0 0 .5rem 1.25rem;">
@@ -87,6 +97,32 @@ permalink: /kurse/ki-im-alltag/
       <li>Höfliche und klare E-Mails, Briefvorlagen, Protokolle</li>
       <li>Rechtschreibung, Stil, Kürzen oder Verlängern</li>
     </ul>
+
+    <div style="margin: 1rem 0; padding: 1rem; background: var(--bg-gray); border-left: 4px solid var(--brand, #0056b3); border-radius: var(--border-radius);">
+      <h5 style="margin: 0 0 .5rem 0;">Praxis‑Übung: Texte überarbeiten (für 13‑Jährige)</h5>
+      <p style="margin: 0 0 .5rem 0;">Ziel: Aus einer Info‑Seite einen <strong>jugendgerechten Text</strong> machen – kurz, klar, spannend.</p>
+      <ul style="margin: 0 0 .5rem 1.25rem;">
+        <li>Lies die Infos zur <em>Informatik (SSE)</em> an der HTL Leonding.</li>
+        <li>Schreibe einen Text für 13‑Jährige (ca. 80–120 Wörter), in der <strong>Du‑Form</strong>.</li>
+        <li>Nenne konkret, was man lernt (Programmieren, Web & Apps, KI, Cyber Security, Projekte) und was es bringt (Praktikum, Job, Studium).</li>
+        <li><strong>Varianten:</strong> a) 3‑Satz‑Version b) Social‑Post (≤ 280 Zeichen)</li>
+      </ul>
+      <p style="margin:.25rem 0 0 0; font-size:.95rem;">Tipp: kurze Sätze, aktive Verben, ein Beispiel (z. B. „App bauen“), am Ende „Was bringt’s mir?“</p>
+
+      <details style="margin:.5rem 0 0 0;">
+        <summary><strong>Beispiel‑Lösungen einblenden</strong></summary>
+        <div style="margin:.5rem 0 0 0;">
+          <p style="margin:.25rem 0 0 0;"><strong>Hauptversion (ca. 110 Wörter)</strong></p>
+          <p style="margin:.25rem 0 .5rem 0;">HTL Leonding – Informatik ist für dich, wenn du gern tüftelst und Dinge bauen willst, die echt funktionieren. Du lernst Schritt für Schritt zu programmieren, Apps und Websites zu entwickeln, Daten clever zu speichern und sichere Netzwerke aufzubauen. Du probierst moderne Themen wie Künstliche Intelligenz und Cyber Security aus und arbeitest in richtigen Projekten im Team. Dabei nutzt du Tech wie Java/.NET, HTML/CSS/JavaScript, Datenbanken (z. B. SQL, MongoDB) und Tools für Mobile & Web. Das Beste: Viele Firmen suchen jedes Jahr Schüler:innen für Praktika – nach dem Abschluss kannst du direkt in einen IT‑Job starten oder an Uni/FH weiterstudieren. Infos zur Anmeldung findest du auf der Bewerber:innen‑Seite.</p>
+
+          <p style="margin:.5rem 0 0 0;"><strong>3‑Satz‑Version</strong></p>
+          <p style="margin:.25rem 0 .5rem 0;">In Informatik an der HTL Leonding baust du Apps, Websites und sogar KI‑Projekte – nicht nur Theorie, sondern richtig praktisch. Du lernst Programmieren, Datenbanken, Web & Mobile, Cyber Security und Teamarbeit in echten Projekten. Nach der Schule: Praktikum, IT‑Job oder Studium – alles drin.</p>
+
+          <p style="margin:.5rem 0 0 0;"><strong>Social‑Post (≤ 280 Zeichen)</strong></p>
+          <p style="margin:.25rem 0 0 0;">Bock auf Coden, Apps & KI? HTL Leonding – Informatik: Programmieren, Web & Mobile, Datenbanken, Cyber Security, echte Projekte im Team. Viele Firmen suchen Praktikant:innen. Nach dem Abschluss: direkter IT‑Job oder Studium. Infos: Bewerber:innen‑Seite der HTL Leonding.</p>
+        </div>
+      </details>
+    </div>
 
     <h4>3) Bilder erzeugen und anpassen</h4>
     <p>Mit generativer KI lassen sich Bilder erstellen oder bestehende Motive anpassen – z. B. Hintergrund entfernen, Farben ändern oder Elemente ergänzen.</p>
