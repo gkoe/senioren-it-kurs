@@ -49,7 +49,12 @@ permalink: /kurse/ki-im-alltag/
     <p>Mit generativer KI lassen sich Bilder erstellen oder bestehende Motive anpassen – z. B. Hintergrund entfernen, Farben ändern oder Elemente ergänzen.</p>
     <figure>
       <img src="{{ '/assets/kurse/ki/chatgpt_bildanpassung.png' | relative_url }}" alt="Beispiel Bildanpassung mit KI">
-      <figcaption>Einfach beschreiben, was geändert werden soll – die KI erledigt den Rest.</figcaption>
+      <figcaption>Beispiel aus ChatGPT: Prompt-basierte Bildanpassung. Hinweis: Ergebnisse können teils skurril oder fehlerhaft sein.</figcaption>
+    </figure>
+
+    <figure>
+      <img src="{{ '/assets/kurse/ki/nano_banana_anassung.png' | relative_url }}" alt="NanoBanana – Person rechts sauber eingefügt">
+      <figcaption>Mit NanoBanana wurde die Person rechts deutlich besser eingefügt – Werkzeuge unterscheiden sich in Qualität und Bedienung.</figcaption>
     </figure>
   </section>
 
@@ -69,7 +74,23 @@ permalink: /kurse/ki-im-alltag/
       <li>Frag die KI nach einer Schritt-für-Schritt-Anleitung zu einem Alltagsproblem</li>
       <li>Lass einen kurzen, freundlichen Antworttext für eine E-Mail formulieren</li>
       <li>Erzeuge ein Bild „im Stil von …“ (ohne reale Marken/Personen zu kopieren)</li>
+      <li><strong>Bild-Übung:</strong> Passe das Bild <em>Ohne_Akku.png</em> so an, dass <em>Text</em> und <em>Fahrrad</em> verändert werden. Zielbild: <em>mit_akku.png</em>.</li>
     </ul>
+
+    <div style="margin-top: 1rem; background: var(--bg-gray); padding: 1rem; border-radius: var(--border-radius);">
+      <p style="margin:0 0 .5rem 0"><strong>Material:</strong> <a class="link-plain" href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>Ohne_Akku.png herunterladen</a></p>
+      <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items:flex-start;">
+        <figure style="flex:1; min-width:220px; margin:0;">
+          <img src="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" alt="Ausgangsbild: Ohne_Akku">
+          <figcaption style="font-size:.9rem; opacity:.8;">Ausgangsbild</figcaption>
+        </figure>
+        <figure style="flex:1; min-width:220px; margin:0;">
+          <img src="{{ '/assets/kurse/ki/mit_akku.png' | relative_url }}" alt="Zielbild: mit_akku">
+          <figcaption style="font-size:.9rem; opacity:.8;">Beispiel-Ziel</figcaption>
+        </figure>
+      </div>
+      <p style="margin-top:.5rem; font-size:.95rem;">Tipp: Beschreibe präzise, was geändert werden soll (z. B. „ersetzte Text ‚Ohne Akku‘ durch ‚Mit Akku‘, passe das Fahrrad an: sichtbarer Akku am Rahmen, Lichtleisten hinzufügen“). Nutze ggf. Auswahlwerkzeuge/Inpainting.</p>
+    </div>
   </section>
 
   <section class="cta-box">
