@@ -6,3 +6,10 @@ url: "https://gkoe.github.io" # passe ggf. an oder lasse leer
 # theme: minima  # Auskommentiert, um eigenes Design zu verwenden
 markdown: kramdown
 permalink: /:title/
+
+# Ordner ausschließen
+exclude:
+  - Init/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
