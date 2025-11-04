@@ -7,7 +7,7 @@ permalink: /home/
 
 <div class="wrap">
   <section id="willkommen">
-    <h2>Herzlich willkommen!</h2>
+    <h2>Herzlich willkommen in der HTL Leonding!</h2>
   <p>Die digitale Welt kann manchmal verwirrend sein. Wir helfen dir, Geräte wie <strong>Smartphones, Tablets und Computer</strong> entspannt und sicher zu nutzen. Wir machen Technik einfach und verständlich – persönlich und ohne Stress.</p>
   </section>
 
