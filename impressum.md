@@ -13,15 +13,14 @@ description: Impressum und rechtliche Angaben
     <p><strong>Verantwortlich für den Inhalt:</strong></p>
     <p>
       Gerald Köck<br>
-      [Straße und Hausnummer]<br>
-      [PLZ] [Ort]<br>
+      Niedermayerweg 6<br>
+      4202 Hellmonsödt<br>
       Österreich
     </p>
     
     <p><strong>Kontakt:</strong></p>
     <p>
       E-Mail: gerald.koeck@aon.at<br>
-      Telefon: [Telefonnummer – optional]
     </p>
   </section>
 
