@@ -1,4 +1,4 @@
-﻿# Senioren-IT Kurs â€” Jekyll Website
+﻿# Senioren-IT Kurs als Jekyll Website
 
 Kurzanleitung:
 1. Erstelle ein neues GitHub-Repository namens senioren-it-kurs (oder verwende deinen gewÃ¼nschten Namen).
