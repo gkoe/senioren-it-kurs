@@ -29,6 +29,20 @@ description: Materialien und Handouts zum Kurs
       </a>
   <p>Praktische Einführung in KI-Tools und wie du diese im Alltag nutzen kannst. Verständlich erklärt mit Beispielen.</p>
     </li>
+    
+    <li class="download-item">
+      <a href="{{ '/assets/downloads/KI-im-Alltag-Slides.html' | relative_url }}" target="_blank" rel="noopener">
+        Präsentation: KI im Alltag (HTML‑Slideshow)
+      </a>
+  <p>Interaktive Präsentation mit Praxisbeispielen, Übungen und Sicherheitshinweisen. Direkt im Browser anzeigen.</p>
+    </li>
+    
+    <li class="download-item">
+      <a href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>
+        Übungsbild: Ohne_Akku.png
+      </a>
+  <p>Beispielbild für die KI‑Bildbearbeitung‑Übung. Passe Text und Fahrrad mit KI‑Tools an.</p>
+    </li>
   </ul>
 
   <section style="margin-top: 3rem; padding: 1.5rem; background: var(--bg-gray); border-radius: var(--border-radius);">
