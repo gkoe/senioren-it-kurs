@@ -10,14 +10,14 @@ description: Materialien und Handouts zum Kurs
 
   <ul class="downloads-list">
       <li class="download-item">
-        <a href="{{ '/assets/downloads/beide.jpg' | relative_url }}" download>
+        <a href="{{ '/assets/downloads/beide.jpg' | relative_url }}" download="beide.jpg">
           Übungsbild: beide.jpg
         </a>
     <p>Übungsbild für KI-Bildbearbeitung.</p>
       </li>
     
       <li class="download-item">
-        <a href="{{ '/assets/downloads/peter.jpg' | relative_url }}" download>
+        <a href="{{ '/assets/downloads/peter.jpg' | relative_url }}" download="peter.jpg">
           Übungsbild: peter.jpg
         </a>
     <p>Übungsbild für KI-Bildbearbeitung.</p>
@@ -31,7 +31,7 @@ description: Materialien und Handouts zum Kurs
     </li>
     
     <li class="download-item">
-      <a href="{{ '/assets/downloads/KI-Praxis - 2025.pdf' | relative_url }}" download>
+      <a href="{{ '/assets/downloads/KI-Praxis%20-%202025.pdf' | relative_url }}" download="KI-Praxis - 2025.pdf">
         KI-Praxis - 2025
       </a>
   <p>Aktuelle Präsentation zu praktischen KI-Anwendungen und deren Einsatz im Alltag (2025).</p>
