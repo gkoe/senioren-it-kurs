@@ -9,6 +9,20 @@ description: Materialien und Handouts zum Kurs
   <p>Hier findest du alle wichtigen Materialien, Handouts und Anleitungen zu unseren Kursen. Klicke auf ein Dokument, um es herunterzuladen.</p>
 
   <ul class="downloads-list">
+      <li class="download-item">
+        <a href="{{ '/assets/downloads/beide.jpg' | relative_url }}" download>
+          Übungsbild: beide.jpg
+        </a>
+    <p>Übungsbild für KI-Bildbearbeitung.</p>
+      </li>
+    
+      <li class="download-item">
+        <a href="{{ '/assets/downloads/peter.jpg' | relative_url }}" download>
+          Übungsbild: peter.jpg
+        </a>
+    <p>Übungsbild für KI-Bildbearbeitung.</p>
+      </li>
+    
     <li class="download-item">
       <a href="{{ '/assets/downloads/Ohne_Akku.png' | relative_url }}" download>
         Übungsbild: Ohne_Akku.png
