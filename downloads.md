@@ -17,6 +17,13 @@ description: Materialien und Handouts zum Kurs
     </li>
     
     <li class="download-item">
+      <a href="{{ '/assets/downloads/KI-Praxis - 2025.pdf' | relative_url }}" download>
+        KI-Praxis - 2025
+      </a>
+  <p>Aktuelle Präsentation zu praktischen KI-Anwendungen und deren Einsatz im Alltag (2025).</p>
+    </li>
+    
+    <li class="download-item">
       <a href="{{ '/assets/downloads/KI-im-Alltag-Slides.html' | relative_url }}" target="_blank" rel="noopener">
         Präsentation: KI im Alltag (HTML‑Slideshow)
       </a>
