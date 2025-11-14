@@ -60,7 +60,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
       <li>Kontakte, Telefon, Kamera & Fotos im Alltag</li>
       <li>Notfallfunktionen (ICE, Notruf, medizinische Infos)</li>
     </ul>
-    <p><strong>Format:</strong> 2 Stunden, Android & iPhone, max. 8 Teilnehmende<br>
+  <p><strong>Format:</strong> 2 Stunden, Android & iPhone<br>
        <strong>Mitbringen:</strong> Smartphone und Ladekabel</p>
   </article>
 
