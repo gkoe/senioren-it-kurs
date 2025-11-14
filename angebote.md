@@ -83,7 +83,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="zugangsdaten-sicher">
     <h3>🔐 Sicherer Umgang mit Zugangsdaten</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 18. Dezember 2025<br>
+  <p><strong>📅 Datum:</strong> Donnerstag, 8. Januar 2026<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>So bleiben Passwörter, E-Mail und Online-Konten geschützt – verständlich erklärt.</p>
