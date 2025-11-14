@@ -481,6 +481,33 @@ section {
 }
 
 /* ========================================
+   Hinweis-/Announcement-Leiste
+   ======================================== */
+.site-notice {
+  background: #fff8e1; /* sanftes Gelb */
+  border-bottom: 1px solid #ffe08a;
+  color: #7c5200;
+}
+
+.site-notice .wrap {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.site-notice a {
+  color: #7c5200;
+  text-decoration: underline;
+}
+
+.notice--info {
+  background: #e0f2fe; /* helles Blau */
+  border-bottom-color: #bae6fd;
+  color: #0b4a6f;
+}
+
+.notice--info a { color: #0b4a6f; }
+
+/* ========================================
    Optimierte Termin-Darstellung
    ======================================== */
 .termin-header {
