@@ -32,7 +32,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="komoot-radfahren">
     <h3>🚴 Radfahren mit Komoot</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 20. November 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 27. November 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Touren planen, navigieren und sicher ankommen – Komoot leicht erklärt.</p>
@@ -49,7 +49,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="optimale-handynutzung">
     <h3>📱 Optimale Handynutzung</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 27. November 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 4. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Wir richten dein Smartphone so ein, dass es zu dir passt: gut lesbar, leicht bedienbar und sicher.</p>
@@ -66,7 +66,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="backup-ohne-mitleid">
     <h3>💾 Ohne Backup kein Mitleid</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 4. Dezember 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Wir zeigen, wie du Fotos und Daten automatisch sicherst und bei Bedarf einfach wiederherstellst.</p>
@@ -83,7 +83,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="zugangsdaten-sicher">
     <h3>🔐 Sicherer Umgang mit Zugangsdaten</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 18. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>So bleiben Passwörter, E-Mail und Online-Konten geschützt – verständlich erklärt.</p>
