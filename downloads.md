@@ -9,12 +9,12 @@ description: Materialien und Handouts zum Kurs
   <p>Hier findest du alle wichtigen Materialien, Handouts und Anleitungen zu unseren Kursen. Klicke auf ein Dokument, um es herunterzuladen.</p>
 
   <ul class="downloads-list">
-      <li class="download-item">
-        <a href="{{ '/assets/downloads/Komoot+Findpenguins.pdf' | relative_url }}" download="Komoot+Findpenguins.pdf">
-          Komoot + Findpenguins
-        </a>
-    <p>Anleitung für Komoot Routenplanung und Findpenguins Reisetagebuch.</p>
-      </li>
+    <li class="download-item">
+      <a href="{{ '/assets/downloads/Komoot+Findpenguins.pdf' | relative_url }}" download>
+        Komoot + Findpenguins
+      </a>
+  <p>Anleitung für Komoot Routenplanung und Findpenguins Reisetagebuch.</p>
+    </li>
     
       <li class="download-item">
         <a href="{{ '/assets/downloads/beide.jpg' | relative_url }}" download="beide.jpg">
