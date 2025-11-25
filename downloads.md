@@ -10,6 +10,13 @@ description: Materialien und Handouts zum Kurs
 
   <ul class="downloads-list">
       <li class="download-item">
+        <a href="{{ '/assets/downloads/Komoot+Findpenguins.pdf' | relative_url }}" download="Komoot+Findpenguins.pdf">
+          Komoot + Findpenguins
+        </a>
+    <p>Anleitung für Komoot Routenplanung und Findpenguins Reisetagebuch.</p>
+      </li>
+    
+      <li class="download-item">
         <a href="{{ '/assets/downloads/beide.jpg' | relative_url }}" download="beide.jpg">
           Übungsbild: beide.jpg
         </a>

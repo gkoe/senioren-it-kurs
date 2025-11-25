@@ -39,7 +39,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
     <ul>
       <li>Komoot-Konto anlegen und Grundeinstellungen</li>
       <li>Routen und Rundtouren planen, GPX importieren</li>
-      <li>Navigation, Sprachanweisungen, Offline-Karten</li>
+      <li>Navigation, Offline-Karten</li>
       <li>Akku sparen unterwegs, Kartenverständnis</li>
       <li>Verknüpfen mit Fahrradcomputer oder Smartwatch (wenn vorhanden)</li>
     </ul>
