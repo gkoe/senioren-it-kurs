@@ -52,13 +52,13 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
     <p><strong>📅 Datum:</strong> Donnerstag, 4. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
-    <p>Wir richten dein Smartphone so ein, dass es zu dir passt: gut lesbar, leicht bedienbar und sicher.</p>
+    <p>Sicherer Umgang mit dem Smartphone: Google-Konto richtig nutzen und Fotos optimal verwalten.</p>
     <ul>
-      <li>Startbildschirm, Apps ordnen, Widgets und Benachrichtigungen</li>
-      <li>Akku sparen, Speicherplatz schaffen, Updates verstehen</li>
-      <li>Barrierefreiheit: größere Schrift, Kontrast, Lupe, Vorlesen</li>
-      <li>Kontakte, Telefon, Kamera & Fotos im Alltag</li>
-      <li>Notfallfunktionen (ICE, Notruf, medizinische Infos)</li>
+      <li>Google-Konto einrichten und sicher nutzen</li>
+      <li>Zugangsdaten und Passwörter schützen</li>
+      <li>Fotos verwalten, organisieren und sichern (Google Fotos / iCloud)</li>
+      <li>Fotos teilen, Alben erstellen und Speicherplatz optimieren</li>
+      <li>Sicherheitseinstellungen und Datenschutz im Google-Konto</li>
     </ul>
   <p><strong>Format:</strong> 2 Stunden, Android & iPhone<br>
        <strong>Mitbringen:</strong> Smartphone und Ladekabel</p>
