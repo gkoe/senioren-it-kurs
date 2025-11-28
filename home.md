@@ -16,9 +16,9 @@ permalink: /home/
     <ul style="list-style: none; padding: 0;">
   <li><strong>06.11.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#ki-privat' | relative_url }}">KI im privaten Umfeld</a></strong></li>
   <li><strong>27.11.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#komoot-radfahren' | relative_url }}">Radfahren mit Komoot</a></strong></li>
-  <li><strong>04.12.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#optimale-handynutzung' | relative_url }}">Optimale Handynutzung</a></strong></li>
-  <li><strong>11.12.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#backup-ohne-mitleid' | relative_url }}">Ohne Backup kein Mitleid</a></strong></li>
-  <li><strong>08.01.2026</strong> <strong><a class="link-plain" href="{{ '/angebote/#zugangsdaten-sicher' | relative_url }}">Sicherer Umgang mit Zugangsdaten</a></strong></li>
+  <li><strong>11.12.2025</strong> <strong><a class="link-plain" href="{{ '/angebote/#optimale-handynutzung' | relative_url }}">Optimale Handynutzung</a></strong></li>
+  <li><strong>08.01.2026</strong> <strong><a class="link-plain" href="{{ '/angebote/#backup-ohne-mitleid' | relative_url }}">Ohne Backup kein Mitleid</a></strong></li>
+  <li><strong>15.01.2026</strong> <strong><a class="link-plain" href="{{ '/angebote/#zugangsdaten-sicher' | relative_url }}">Sicherer Umgang mit Zugangsdaten</a></strong></li>
     </ul>
     
   </section>

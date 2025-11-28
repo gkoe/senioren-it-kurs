@@ -49,7 +49,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="optimale-handynutzung">
     <h3>📱 Optimale Handynutzung</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 4. Dezember 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Sicherer Umgang mit dem Smartphone: Google-Konto richtig nutzen und Fotos optimal verwalten.</p>
@@ -66,7 +66,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="backup-ohne-mitleid">
     <h3>💾 Ohne Backup kein Mitleid</h3>
-    <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
+    <p><strong>📅 Datum:</strong> Donnerstag, 8. Januar 2026<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>Wir zeigen, wie du Fotos und Daten automatisch sicherst und bei Bedarf einfach wiederherstellst.</p>
@@ -83,7 +83,7 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
 
   <article class="kurs" id="zugangsdaten-sicher">
     <h3>🔐 Sicherer Umgang mit Zugangsdaten</h3>
-  <p><strong>📅 Datum:</strong> Donnerstag, 8. Januar 2026<br>
+  <p><strong>📅 Datum:</strong> Donnerstag, 15. Januar 2026<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
     <p>So bleiben Passwörter, E-Mail und Online-Konten geschützt – verständlich erklärt.</p>
