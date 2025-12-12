@@ -10,6 +10,13 @@ description: Materialien und Handouts zum Kurs
 
   <ul class="downloads-list">
     <li class="download-item">
+      <a href="{{ '/assets/downloads/Sichere Handynutzung.pdf' | relative_url }}" download>
+        Sichere Handynutzung
+      </a>
+  <p>Kurzleitfaden: Einstellungen, Sicherheit und Foto-Backup für dein Smartphone.</p>
+    </li>
+    
+    <li class="download-item">
       <a href="{{ '/assets/downloads/Komoot+Findpenguins.pdf' | relative_url }}" download>
         Komoot + Findpenguins
       </a>
