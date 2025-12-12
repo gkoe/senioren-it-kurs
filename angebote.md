@@ -47,18 +47,18 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
        <strong>Mitbringen:</strong> Smartphone, optional Fahrradcomputer/Smartwatch</p>
   </article>
 
-  <article class="kurs" id="optimale-handynutzung">
-    <h3>📱 Optimale Handynutzung</h3>
+  <article class="kurs" id="sichere-handynutzung">
+    <h3>📱 Sichere Handynutzung</h3>
     <p><strong>📅 Datum:</strong> Donnerstag, 11. Dezember 2025<br>
        <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
        <strong>📍 Ort:</strong> HTL-Leonding</p>
-    <p>Sicherer Umgang mit dem Smartphone: Google-Konto richtig nutzen und Fotos optimal verwalten.</p>
+    <p>Sicher unterwegs mit Smartphone und Google-Konto: Datenschutz, Passwörter, Backups und Fotos im Griff.</p>
     <ul>
-      <li>Google-Konto einrichten und sicher nutzen</li>
-      <li>Zugangsdaten und Passwörter schützen</li>
-      <li>Fotos verwalten, organisieren und sichern (Google Fotos / iCloud)</li>
-      <li>Fotos teilen, Alben erstellen und Speicherplatz optimieren</li>
-      <li>Sicherheitseinstellungen und Datenschutz im Google-Konto</li>
+      <li>Google-Konto und Play Store sicher einrichten (Passwörter, 2FA, Gerätesperre)</li>
+      <li>App-Berechtigungen, Standort- und Werbeeinstellungen prüfen</li>
+      <li>Updates und Gerätesicherheit: System, Apps, Find-My-Device</li>
+      <li>Fotos verwalten und teilen: Alben, Freigaben, Speicherplatz optimieren</li>
+      <li>Backup und Wiederherstellung (Google Fotos / iCloud) für Bilder und Daten</li>
     </ul>
   <p><strong>Format:</strong> 2 Stunden, Android & iPhone<br>
        <strong>Mitbringen:</strong> Smartphone und Ladekabel</p>
