@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!-- saved from url=(0109)file:///D:/work/digitalisierung_fuer_erwachsene/senioren-it-kurs/assets/downloads/Gutschein-ETF-Sparplan.html -->
+<html lang="de"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gutschein - ETF Sparplan</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .gutschein {
+            width: 800px;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border: 8px double #2c5aa0;
+            border-radius: 15px;
+            padding: 50px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .gutschein::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(44,90,160,0.03) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header h1 {
+            font-size: 48px;
+            color: #2c5aa0;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.05);
+        }
+        
+        .header h2 {
+            font-size: 28px;
+            color: #495057;
+            font-weight: 300;
+            margin-top: 10px;
+        }
+        
+        .divider {
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, #2c5aa0, transparent);
+            margin: 30px auto;
+        }
+        
+        .content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .greeting {
+            font-size: 20px;
+            color: #495057;
+            font-style: italic;
+            text-align: center;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        
+        .main-text {
+            font-size: 18px;
+            color: #333;
+            line-height: 1.8;
+            text-align: justify;
+            margin-bottom: 30px;
+            padding: 0 20px;
+        }
+        
+        .icon-container {
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .icon {
+            font-size: 80px;
+            color: #28a745;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid #dee2e6;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .footer p {
+            font-size: 16px;
+            color: #6c757d;
+            margin: 5px 0;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #2c5aa0;
+        }
+        
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            
+            .gutschein {
+                box-shadow: none;
+                border-radius: 0;
+                page-break-after: always;
+            }
+        }
+        
+        @media screen and (max-width: 850px) {
+            .gutschein {
+                width: 100%;
+                padding: 30px;
+            }
+            
+            .header h1 {
+                font-size: 36px;
+            }
+            
+            .header h2 {
+                font-size: 22px;
+            }
+            
+            .main-text {
+                font-size: 16px;
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="gutschein">
+        <div class="header">
+            <h1>GUTSCHEIN</h1>
+            <h2>für einen All-World ETF Sparplan</h2>
+        </div>
+        
+        <div class="divider"></div>
+        
+        <div class="content">
+            <div class="greeting">
+                Anlässlich deiner Taufe, lieber Theo,
+            </div>
+            
+            <div class="main-text">
+                schenken wir dir einen Ansparplan auf einen <span class="highlight">All-World ETF</span>. 
+                Dieser Sparplan ist wie ein kleiner Samen, den wir heute pflanzen. Er wird in den kommenden 
+                Jahren, dank des Zinseszinseffekts und der weltweiten Streuung in über 3.000 Unternehmen, 
+                hoffentlich zu einem stattlichen Baum heranwachsen – für deine Ausbildung, dein Studium 
+                oder einen anderen großen Wunsch, den du in der Zukunft haben wirst.
+            </div>
+            
+            <div class="icon-container">
+                <div class="icon">🌱 → 🌿 → 🌳</div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p><strong>30. November 2025</strong></p>
+            <p>Mit den besten Wünschen für Deine Zukunft</p>
+        </div>
+    </div>
+    
+    <script>
+        // Optionale Druckfunktion beim Laden
+        // window.onload = function() {
+        //     if (confirm('Möchten Sie den Gutschein jetzt drucken?')) {
+        //         window.print();
+        //     }
+        // }
+    </script>
+
+</body></html>
