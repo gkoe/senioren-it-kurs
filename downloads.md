@@ -10,6 +10,27 @@ description: Materialien und Handouts zum Kurs
 
   <ul class="downloads-list">
     <li class="download-item">
+      <a href="{{ '/assets/downloads/ID Austria.pdf' | relative_url }}" download>
+        ID Austria
+      </a>
+  <p>Anleitung zur Nutzung der ID Austria für digitale Behördengänge.</p>
+    </li>
+    
+    <li class="download-item">
+      <a href="{{ '/assets/downloads/Kein Backup kein Mitleid.pdf' | relative_url }}" download>
+        Kein Backup kein Mitleid
+      </a>
+  <p>Wichtige Informationen zu Datensicherung und Backup-Strategien.</p>
+    </li>
+    
+    <li class="download-item">
+      <a href="{{ '/assets/downloads/Verwaltung von Photos.pdf' | relative_url }}" download>
+        Verwaltung von Photos
+      </a>
+  <p>Tipps und Anleitungen zur Organisation und Sicherung deiner Fotos.</p>
+    </li>
+    
+    <li class="download-item">
       <a href="{{ '/assets/downloads/Sichere Handynutzung.pdf' | relative_url }}" download>
         Sichere Handynutzung
       </a>

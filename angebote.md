@@ -81,21 +81,4 @@ description: Unsere Kursabende – verständlich, praxisnah und in kleinen Grupp
        <strong>Mitbringen:</strong> Smartphone/Notebook, ggf. USB-Stick oder externe Festplatte</p>
   </article>
 
-  <article class="kurs" id="zugangsdaten-sicher">
-    <h3>🔐 Sicherer Umgang mit Zugangsdaten</h3>
-  <p><strong>📅 Datum:</strong> Donnerstag, 15. Januar 2026<br>
-       <strong>🕒 Uhrzeit:</strong> 17:30 Uhr<br>
-       <strong>📍 Ort:</strong> HTL-Leonding</p>
-    <p>So bleiben Passwörter, E-Mail und Online-Konten geschützt – verständlich erklärt.</p>
-    <ul>
-      <li>Sichere Passwörter einfach erstellen und merken</li>
-      <li>Passwortmanager nutzen (Vor- und Nachteile)</li>
-      <li>Zwei-Faktor-Anmeldung (2FA) mit App oder SMS</li>
-      <li>Phishing erkennen: typische Warnzeichen</li>
-      <li>Postfach aufräumen, wichtige Sicherheitseinstellungen</li>
-    </ul>
-   <p><strong>Format:</strong> 2 Stunden, Praxis mit Beispielen<br>
-     <strong>Mitbringen:</strong> Zugang zu deinem E-Mail-Postfach, Smartphone für 2FA</p>
-  </article>
-
 </div>
